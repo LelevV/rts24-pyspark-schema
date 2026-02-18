@@ -1,3 +1,9 @@
+# Outputs
+outputs/
+*.pdf
+
+###### standard Python ignores 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
